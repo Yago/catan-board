@@ -4,7 +4,7 @@
 
 Le plateau est composé de 3 couches :
 - **la côte** (top) : ~4mm, cadre principal 
-- **Trous** (bottom) : trou entre les hexagones
+- **les trous** (bottom) : trous entre les hexagones
 - **base** : base solide pour rigidifier l'ensemble
 
 ![layers](../images/layers.jpg)
@@ -15,7 +15,7 @@ Vous pouvez choisir différents types de matériaux. Pour mon prototype, j'ai ch
 
 J'ai choisi de faire mes découpe sur une [Trotec Speedy 300](https://www.troteclaser.com/en/laser-machines/laser-engravers-speedy-series/) dans mon Fablab local. Si vous avez le même type de découpeuse laser ou au moins un **espace de découpe de 726mm x 432mm**, vous pouvez directement utiliser les fichiers dans `src/inkscape/` :
 - `bottom-center.svg` : centre du cadre, **4**mm d'épaisseur*
-- `bottom-left.svg` : cadre gauches^, **4**mm d'épaisseur*
+- `bottom-left.svg` : cadre gauche, **4**mm d'épaisseur*
 - `bottom-right.svg` : cadre droite, **4**mm d'épaisseur*
 - `centers.svg` : petites pièces à mettre dans les trous, **6.5**mm d'épaisseur*
 - `top-center.svg` : trous centraux, **4**mm d'épaisseur*
