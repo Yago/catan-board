@@ -47,7 +47,7 @@ First, you have to glue your **holes (bottom) on the base**
 
 ![glue2](../images/glue2.jpg)
 
-... and finnally the **frame (top) on the holes (bottom)**
+... and finally the **frame (top) on the holes (bottom)**
 
 ![glue3](../images/glue3.jpg)
 
