@@ -1,5 +1,7 @@
 # ⛰ Catan Board
 
+![catan board blank](./images/catan-board-blank.jpg)
+
 ## 🇬🇧 English
 
 **Catan Board** is an Open Source blueprint to create a sweet board for [Catan](http://www.catan.com/). It offers a nice, rock solid and modular playground.
@@ -18,7 +20,8 @@ Trouvez les étapes complète de montage sur la [page dediée](./doc/fr.md).
 
 <br>
 
-![_DSF4060](./images/_DSF4060.jpg)
-![_DSF4082](./images/_DSF4082.jpg)
+![catan board top](./images/catan-board-top.jpg)
+![catan board close](./images/catan-board-close.jpg)
+![catan board close](./images/catan-board-close2.jpg)
 
 
