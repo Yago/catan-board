@@ -33,7 +33,7 @@ You can also **remove a bit of the base** if you want an attachment system.
 
 ![base](../images/base.jpg)
 
-When everything is cutted, you can **sand you material** for more smoothness.
+When everything is cutted, you can **sand your material** for more smoothness.
 
 ![sand](../images/sand.jpg)
 
