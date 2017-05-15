@@ -24,4 +24,7 @@ Trouvez les étapes complète de montage sur la [page dediée](./doc/fr.md).
 ![catan board close](./images/catan-board-close.jpg)
 ![catan board close](./images/catan-board-close2.jpg)
 
+## Thanks
+- [FabLab Fribourg](http://fablab-fribourg.ch/)
+- My dad, Yves
 
